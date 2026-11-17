@@ -1,0 +1,26 @@
+{
+  "verified_inputs": 61,
+  "mdt": [
+    {
+      "metadata": "firmware/qcom/sm8475/xiaomi/unicorn/a730_zap.mdt",
+      "segments": 3,
+      "loadable_segments": 1,
+      "memory_span_bytes": 2236
+    },
+    {
+      "metadata": "firmware/qcom/sm8475/xiaomi/unicorn/adsp.mdt",
+      "segments": 25,
+      "loadable_segments": 24,
+      "memory_span_bytes": 51380224
+    },
+    {
+      "metadata": "firmware/qcom/sm8475/xiaomi/unicorn/slpi.mdt",
+      "segments": 24,
+      "loadable_segments": 23,
+      "memory_span_bytes": 26214400
+    }
+  ],
+  "board_key": "bus=pci,vendor=17cb,device=1103,subsystem-vendor=17cb,subsystem-device=0108,qmi-chip-id=18,qmi-board-id=255",
+  "board_2_sha256": "649e8405999f4e423789dfb04ec26ee0fc70e23d6203bad76239fd36904e9f5a",
+  "secure_world_authentication_verified": false
+}

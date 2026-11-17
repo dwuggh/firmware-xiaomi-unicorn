@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "device": "xiaomi,unicorn",
+  "version": "snapshot-20261113",
+  "profile_sha256": "b1b92c8f7412a2820c38d09ade2b2f8259c2970fb5f872109a25925d16ed304c",
+  "redistribution_reviewed": false,
+  "scope": "GPU, ADSP, SLPI, WLAN; no Bluetooth, factory identities or speaker calibration"
+}

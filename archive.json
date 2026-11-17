@@ -1,0 +1,9 @@
+{
+  "file": "unicorn-firmware-snapshot-20261113.tar.zst",
+  "version": "snapshot-20261113",
+  "bytes": 16346822,
+  "sha256": "d8233c7dc8f7d06076f64a6ce29b3570e1c2568cfdfc686c0b87c200981f30c2",
+  "oem_payload_files": 61,
+  "runtime_firmware_files": 61,
+  "redistribution_reviewed": false
+}

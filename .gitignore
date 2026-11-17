@@ -1,0 +1,36 @@
+/inputs/
+/out/
+/.work/
+/.venv/
+/.agents/
+/.codex/
+/.aws/
+/AGENTS.md
+__pycache__/
+*.py[cod]
+*.egg-info/
+/build/
+/dist/
+# Raw images and generated archives remain local inputs/outputs.
+*.img
+*.bin
+*.fw
+*.elf
+*.mdt
+*.b[0-9][0-9]
+*.wmfw
+*.raw
+*.cod
+*.zip
+*.tar
+*.tar.*
+*.tgz
+*.pem
+*.key
+.env
+
+# Reviewed Linux runtime firmware is the source payload of this repository.
+!/lib/firmware/**/*.bin
+!/lib/firmware/**/*.fw
+!/lib/firmware/**/*.mdt
+!/lib/firmware/**/*.b[0-9][0-9]

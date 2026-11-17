@@ -1,0 +1,9 @@
+License scope
+
+Firmware files under lib/firmware/ are proprietary OEM assets. Copyright and
+other rights remain with their respective owners. No additional license to
+those binaries is granted by this repository. Redistribution terms have not
+been established in the source material available for this snapshot.
+
+The extraction, validation and packaging tools under tools/ are licensed under
+the MIT License in tools/LICENSE. That license does not apply to firmware.
